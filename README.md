@@ -104,3 +104,49 @@ Contributions are welcome! Please submit pull requests or open issues on the pro
 ## Disclaimer
 
 This tool is a community project and is not officially affiliated with Rust or Facepunch Studios.
+
+## Roadmap and TODO List
+
+### Short-Term Improvements
+- [ ] Add command-line argument support for quick generation
+- [ ] Implement cross-platform compatibility (Windows, Linux, macOS)
+- [ ] Create a configuration export/import feature
+- [ ] Add logging functionality for generated identifiers
+
+### Medium-Term Goals
+- [ ] Develop a GUI version of the application
+- [ ] Create a web-based version for online identifier generation
+- [ ] Add support for multiple identifier generation formats
+- [ ] Implement a character set customization option
+
+### Long-Term Vision
+- [ ] Create plugins/integrations for popular Rust community tools
+- [ ] Develop an API for programmatic identifier generation
+- [ ] Add advanced security features like collision detection
+- [ ] Support for internationalization and localization
+
+### Potential Feature Enhancements
+- [ ] Generate identifiers with specific complexity requirements
+- [ ] Add a preview mode to show potential identifiers
+- [ ] Implement a history tracking system for generated IDs
+- [ ] Create export options (CSV, JSON, clipboard)
+
+### Performance and Optimization
+- [ ] Benchmark and optimize random string generation
+- [ ] Improve configuration file handling
+- [ ] Reduce memory footprint
+- [ ] Enhance error handling and user feedback
+
+### Community Contributions
+- [ ] Set up a contribution guidelines document
+- [ ] Create issue and feature request templates
+- [ ] Establish a review process for community patches
+- [ ] Develop a code of conduct for the project
+
+### Known Limitations to Address
+- [ ] Improve error handling for edge cases
+- [ ] Add more comprehensive input validation
+- [ ] Enhance configuration management
+- [ ] Implement better cross-platform file path handling
+
+**Note:** This roadmap is community-driven and subject to change based on user feedback and contributions.
